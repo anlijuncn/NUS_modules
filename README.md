@@ -1,2 +1,2 @@
-# NUS_modules
-Repo for NUS moduls
+# NUS modules
+Code for NUS modules I am taking.
